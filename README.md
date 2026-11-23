@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Henry! 👋</h1>
+<h1 align="center">Hola, soy Henry </h1>
 
 <p align="center">
   Estudiante de Ingeniería de Desarrollo de Software 💻<br>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## Sobre mí
 
 Llevo dos años de carrera y ahorita voy en **ciclo 4**. Lo que más me gusta de programar es **resolver lógica**: agarrar un problema, darle vueltas y no soltarlo hasta que funcione. Quiero irme por el lado **full stack** para poder hacer una app completa, desde lo que se ve hasta la API.
 
@@ -84,12 +84,9 @@ Y fuera de las pantallas, **juego fútbol de verdad** 🥅. Me ayuda a desconect
 
 ## 📫 Contacto
 
-¿Quieres hablar de código, proyectos o anime? Escríbeme 😄
+¿Quieres hablar de código, proyectos o anime? Escríbeme 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-zelaya-397b7844a/)
 [![Correo universitario](https://img.shields.io/badge/Correo_UNIVO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:u20251250@univo.edu.sv)
 [![Correo personal](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldairzelaya137@gmail.com)
 
-<p align="center">
-  <i>Un bug a la vez 🐛</i>
-</p>
